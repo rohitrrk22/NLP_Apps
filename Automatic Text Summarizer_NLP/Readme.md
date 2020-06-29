@@ -12,5 +12,7 @@ Automatic Text Summarizer using NLTK uses the concept of automatic summarization
 * BeautifulSoup for scraping information from webpages
 
 ## GUI:
+Home
+
 
 ![alt text](https://github.com/rohitrrk22/NLP_Apps/blob/master/Automatic%20Text%20Summarizer_NLP/Images/Home.PNG)
