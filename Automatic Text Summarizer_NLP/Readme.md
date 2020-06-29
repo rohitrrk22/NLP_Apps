@@ -15,7 +15,7 @@ Automatic Text Summarizer using NLTK uses the concept of automatic summarization
 Let's walk you through the GUI
 
 
- **Home**
+ **Home - Normal Text Summary**
 
 
 ![alt text](https://github.com/rohitrrk22/NLP_Apps/blob/master/Automatic%20Text%20Summarizer_NLP/Images/Home.PNG)
@@ -25,3 +25,12 @@ Let's walk you through the GUI
 - Summary - Gives summary of the entered text in the below display window.
 - Clear Result - Clear's the generated summary from the display window.
 - Save - Save's the generated summary in a text file & display's the summary and the saved file name in the display window.
+
+
+**Text File Summary**
+
+
+![Text File](https://github.com/rohitrrk22/NLP_Apps/blob/master/Automatic%20Text%20Summarizer_NLP/Images/Text_File2.PNG)
+
+- Open File - Open's window for selecting the text file
+- Close - Clear's the "Enter Text to Summarize" text field.
