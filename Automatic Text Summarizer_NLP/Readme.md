@@ -62,3 +62,17 @@ Let's walk you through the GUI
 - Get Text - Takes website text data after entering url and displaying it in the window
 - Reset URL - Clear's the content of "Enter URL To Summarize" field
 
+## Usage:
+
+```
+Main_UI.ipynb
+```
+
+## Tested On:
+* Window's 10
+
+## Acknowledgment:
+1. [Text Summaryzer by JCharis Jesse](https://github.com/Jcharis/NLP-Web-Apps/tree/master/Summaryzer_GUI)
+
+2. [Text Summarization with NLTK in Python by Usman Malik ](https://stackabuse.com/text-summarization-with-nltk-in-python/)
+
