@@ -48,18 +48,17 @@ Let's walk you through the GUI
 ![URL Tab](https://github.com/rohitrrk22/NLP_Apps/blob/master/Automatic%20Text%20Summarizer_NLP/Images/URL2.PNG)
 
 
+**Buttons**
 
-- Enter Text to Summarize - Text Field for entering the text to summarize
-- Reset - Clear's the "Enter Text to Summarize" text field.
-- Summary - Gives summary of the entered text in the below display window.
-- Clear Result - Clear's the generated summary from the display window.
-- Save - Save's the generated summary in a text file & display's the summary and the saved file name in the display window.
-- Open File To Summarize - Display's the content of a text file.
-- Open File - Open's window for selecting the text file
-- Reset - Clear's the " Open File To Summarize" window.
+- Enter Text to Summarize - Text Field for entering the text to summarize.
+- Reset/Reset Display - Clear's the content of Input Text window.
+- Open File/PDF/Word To Summarize - Display's the content of a Text/PDF/Word Files.
+- Open File - Open's window for selecting the Text/PDF/Word Files.
 - Summary - Gives summary of the content's of a text in the below display window.
 - Clear Result - Clear's the generated summary from the display window.
 - Save - Save's the generated summary in a text file & display's the summary and the saved file name in the display window.
 - Close - Closes the GUI Window.
-
+- Enter URL To Summarize - Text Field for entering the url of a website.
+- Get Text - Takes website text data after entering url and displaying it in the window
+- Reset URL - Clear's the content of "Enter URL To Summarize" field
 
