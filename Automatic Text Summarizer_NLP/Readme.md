@@ -20,22 +20,46 @@ Let's walk you through the GUI
 
 ![alt text](https://github.com/rohitrrk22/NLP_Apps/blob/master/Automatic%20Text%20Summarizer_NLP/Images/Home.PNG)
 
-- Enter Text to Summarize - Text Field for entering the text to summarize
-- Reset - Clear's the "Enter Text to Summarize" text field.
-- Summary - Gives summary of the entered text in the below display window.
-- Clear Result - Clear's the generated summary from the display window.
-- Save - Save's the generated summary in a text file & display's the summary and the saved file name in the display window.
 
 
 **Text File Summary**
 
 
-![Text File](https://github.com/rohitrrk22/NLP_Apps/blob/master/Automatic%20Text%20Summarizer_NLP/Images/Text_File2.PNG)
+![Text File Tab](https://github.com/rohitrrk22/NLP_Apps/blob/master/Automatic%20Text%20Summarizer_NLP/Images/Text_File2.PNG)
 
+
+
+**PDF Summary**
+
+
+![PDF Tab](https://github.com/rohitrrk22/NLP_Apps/blob/master/Automatic%20Text%20Summarizer_NLP/Images/PDF_File2.PNG)
+
+
+**Word Summary**
+
+
+![Word Tab](https://github.com/rohitrrk22/NLP_Apps/blob/master/Automatic%20Text%20Summarizer_NLP/Images/Word_File2.PNG)
+
+
+
+**Website Data Summary**
+
+
+![URL Tab](https://github.com/rohitrrk22/NLP_Apps/blob/master/Automatic%20Text%20Summarizer_NLP/Images/URL2.PNG)
+
+
+
+- Enter Text to Summarize - Text Field for entering the text to summarize
+- Reset - Clear's the "Enter Text to Summarize" text field.
+- Summary - Gives summary of the entered text in the below display window.
+- Clear Result - Clear's the generated summary from the display window.
+- Save - Save's the generated summary in a text file & display's the summary and the saved file name in the display window.
 - Open File To Summarize - Display's the content of a text file.
 - Open File - Open's window for selecting the text file
 - Reset - Clear's the " Open File To Summarize" window.
 - Summary - Gives summary of the content's of a text in the below display window.
 - Clear Result - Clear's the generated summary from the display window.
 - Save - Save's the generated summary in a text file & display's the summary and the saved file name in the display window.
-- Close - Clear's the "Enter Text to Summarize" text field.
+- Close - Closes the GUI Window.
+
+
