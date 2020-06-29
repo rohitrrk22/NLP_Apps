@@ -32,5 +32,10 @@ Let's walk you through the GUI
 
 ![Text File](https://github.com/rohitrrk22/NLP_Apps/blob/master/Automatic%20Text%20Summarizer_NLP/Images/Text_File2.PNG)
 
+- Open File To Summarize - Display's the content of a text file.
 - Open File - Open's window for selecting the text file
+- Reset - Clear's the " Open File To Summarize" window.
+- Summary - Gives summary of the content's of a text in the below display window.
+- Clear Result - Clear's the generated summary from the display window.
+- Save - Save's the generated summary in a text file & display's the summary and the saved file name in the display window.
 - Close - Clear's the "Enter Text to Summarize" text field.
