@@ -10,3 +10,7 @@ Automatic Text Summarizer using NLTK uses the concept of automatic summarization
 * Python-docx for working with Word Files
 * Urllib for working with urls
 * BeautifulSoup for scraping information from webpages
+
+## GUI:
+
+![alt text](https://github.com/rohitrrk22/NLP_Apps/blob/master/Automatic%20Text%20Summarizer_NLP/Images/Home.PNG)
